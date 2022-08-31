@@ -1,1 +1,1 @@
-# notes
+# notes et inspirations
