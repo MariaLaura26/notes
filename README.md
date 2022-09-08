@@ -1,6 +1,6 @@
 #  Inspirations projet final
 Expérience de réalité virtuelle
-immersive (faire ressentir à l'utilisateur une ou des emotions, des objets en 3d ou un univers) 
+immersive ( l'utilisateur  un autre univers) 
 ![](https://www.mcgilltribune.com/wp-content/uploads/2021/03/carne-y-arena-variety.com_.jpeg)
 
 
